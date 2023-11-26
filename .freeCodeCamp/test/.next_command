@@ -46,3 +46,10 @@ cat < name.txt
 echo Jozsef
 touch script.sh
 chmod +x script.sh
+sed -i '1 i #!/bin/bash' script.sh
+vim script.sh
+echo
+echo -e
+echo -e "\#\!/bin/bash"
+echo -e "#\!/bin/bash"
+nano script.sh
