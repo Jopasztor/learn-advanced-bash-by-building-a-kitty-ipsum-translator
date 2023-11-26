@@ -41,3 +41,4 @@ echo $NAME
 echo Jozsef
 echo $NAME
 cat
+cat name.txt
