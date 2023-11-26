@@ -61,3 +61,5 @@ echo Jozsef
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
+at kitty_ipsum_1.txt
+cat kitty_ipsum_1.txt
