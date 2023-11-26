@@ -55,3 +55,4 @@ echo -e "#\!/bin/bash"
 nano script.sh
 __vsc_prompt_cmd_original
 ./script.sh
+echo Jozsef
