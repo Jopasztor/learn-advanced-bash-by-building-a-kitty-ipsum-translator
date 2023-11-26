@@ -60,3 +60,4 @@ echo Jozsef
 echo Jozsef
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
+./script.sh < name.txt 2> stderr.txt > stdout.txt
