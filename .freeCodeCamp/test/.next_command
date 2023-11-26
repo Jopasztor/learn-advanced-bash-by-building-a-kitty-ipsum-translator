@@ -39,3 +39,4 @@ read < name.txt
 read NAME < name.txt
 echo $NAME
 echo Jozsef
+echo $NAME
