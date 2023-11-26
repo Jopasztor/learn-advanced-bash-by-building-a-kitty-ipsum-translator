@@ -45,3 +45,4 @@ cat name.txt
 cat < name.txt
 echo Jozsef
 touch script.sh
+chmod +x script.sh
