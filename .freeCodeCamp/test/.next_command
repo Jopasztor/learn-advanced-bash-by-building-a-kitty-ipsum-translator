@@ -43,3 +43,4 @@ echo $NAME
 cat
 cat name.txt
 cat < name.txt
+echo Jozsef
